@@ -1,4 +1,4 @@
-import { QRCodeSVG } from "qrcode.react";
+// import { QRCodeSVG } from "qrcode.react";
 
 const QRCodeComponent = () => {
 //   const gameUrl = window.location.href;
